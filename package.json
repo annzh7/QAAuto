@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "chalk": "^5.5.0"
-  }
+  },
+  "name": "qaauto",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annzh7/QAAuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annzh7/QAAuto/issues"
+  },
+  "homepage": "https://github.com/annzh7/QAAuto#readme",
+  "description": ""
 }
