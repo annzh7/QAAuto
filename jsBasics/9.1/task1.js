@@ -5,4 +5,4 @@ student.lastName = 'Zhuravel';
 student.age = 30;
 student.courses = ['Math', 'Biology'];
 
-console.log (student);
+console.log(student);
